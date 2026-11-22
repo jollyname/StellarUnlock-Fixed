@@ -1,0 +1,9 @@
+{
+    "id":  "stellarunlock_fixed",
+    "name":  "Stellar Unlock Fixed",
+    "author":  "Krunk, Romalaure, jollyname",
+    "version":  "1.3.4",
+    "description":  "Bring back the prototype planets! Loads locked planets and spawns resources on them. Also brings back locked prototype items and parts. Needs SDModKit. Unofficial fix by Romalaure, uploaded by jollyname",
+    "thumbnail": "sut.png",
+    "images": ["sug.png"]
+}
